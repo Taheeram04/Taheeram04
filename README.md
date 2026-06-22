@@ -1,5 +1,5 @@
 # 💫 About Me:
-Yooh Familyyy!👌 I'm Taheera Mohammed Abdallah<br>I'm a Full stack developer, data analytics engineer and a Digital marketer.<br>I have the skills you need😉. Hiree meee!
+Yooh Familyyy! I'm Taheera Mohammed Abdallah<br>I'm a Full stack developer, data analytics engineer and a Digital marketer.<br>i have the skills you need😉. Hiree meee!
 
 
 ## 🌐 Socials:
