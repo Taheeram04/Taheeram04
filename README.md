@@ -6,7 +6,7 @@ I am a software developer apprentice at Zone01. I specialize in backend logic us
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/taheera-mohamed-612665234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taheeramohamed04@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taheera-mohamed-612665234/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taheeramohamed04@gmail.com) 
 
  <img src="https://github.com/user-attachments/assets/e7eba6ef-92ab-43e9-86f8-96cb74c1cf06" alt="Profile illustration" width="300" />
 
