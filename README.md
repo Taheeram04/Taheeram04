@@ -1,5 +1,3 @@
-## 📂 About Me:
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7931A&vCenter=true&width=650&height=50&lines=Yooh+Familyyy!+👋;I'm+Taheera+Mohammed+Abdalla;Software+Developer+Apprentice+at+Zone01;Go+Developer+%26+Bitcoin+Lightning+builder+⚡)](https://git.io/typing-svg)
 
 I am a software developer apprentice at Zone01. I specialize in backend logic using Go and love building scalable solutions on Bitcoin and the Lightning Network. I've got the skills you need 😜. Hire meee!
