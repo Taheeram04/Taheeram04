@@ -1,8 +1,6 @@
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> About Me:
+## 📁 About Me:
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7931A&vCenter=true&width=500&height=50&lines=Yooh+Familyyy!+👋;I'm+Taheera+Mohammed;Software+Developer+Apprentice;Building+on+Bitcoin+%26+Lightning+⚡" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7931A&vCenter=true&width=550&height=50&lines=Yooh+Familyyy!+👋;I'm+Taheera+Mohammed;Software+Developer+Apprentice;Building+on+Go+%26+Bitcoin+⚡)](https://git.io/typing-svg)
 
 Yooh Familyyy! I’m Taheera Mohammed Abdallah
 I’m a Full stack developer, data analytics engineer and a Digital marketer.
