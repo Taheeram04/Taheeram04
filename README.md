@@ -15,7 +15,7 @@ I am a software developer apprentice at Zone01. I specialize in backend logic us
 ![](https://streak-stats.demolab.com/?user=Taheeram04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Taheeram04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![ASCII Portrait](assets/ascii_portrait.png)
+![ASCII Portrait](https://raw.githubusercontent.com/Taheeram04/ASSETS/main/ascii_portrait_github.png)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Taheeram04&theme=radical&no-frame=false&no-bg=false&margin-w=4)
